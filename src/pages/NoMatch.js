@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-export default function noMatch() {
+export default function NoMatch() {
     return (
         <div>
             <h2>Wow, it's like that's not even a page, to be honest.</h2>
